@@ -1,6 +1,6 @@
 package first.project;
 
-public class Main {
+public class var_and_types {
 
     public static void main(String[] args) {
 
