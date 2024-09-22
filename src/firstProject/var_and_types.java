@@ -1,4 +1,4 @@
-package first.project;
+package firstProject;
 
 public class var_and_types {
 
